@@ -1,6 +1,21 @@
+$ex
+$ e x
+$ h i t
+$hit
+$ u c k
+$uck
+a$$
+4$$
+$ u c k $
+a.d.m.i.n
+a_d_m_in
+$ucks
 @dmin
+@dolf
+@d0lf
 @ss
 0ral
+0r4l
 a d m i n
 a d o l f
 a d u s e
@@ -24,6 +39,7 @@ admlnistrator
 ado1f
 adoIf
 adolf
+4d01f
 a-d-o-l-f
 adolff
 adollf
@@ -254,8 +270,8 @@ executioner
 f 1 c k
 f i c k
 f o t z e
-f o t z e
-f o t z e
+f 0 t z e
+f o t z e n
 f u c k
 f u c k e r
 f0tze
