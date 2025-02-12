@@ -16,6 +16,7 @@ $ucks
 @ss
 0ral
 0r4l
+0r41
 a d m i n
 a d o l f
 a d u s e
@@ -39,6 +40,8 @@ admlnistrator
 ado1f
 adoIf
 adolf
+a.d.o.l.f
+a_d_o_l_f
 4d01f
 a-d-o-l-f
 adolff
@@ -56,6 +59,9 @@ arschloch
 arse
 arsehole
 ass
+a-s-s
+a_s_s
+a.s.s
 assassin
 assassinate
 assassination
@@ -91,12 +97,17 @@ bescheuerter
 bestial
 bestiality
 biatch
+b_i_a_t_c_h
+b.i.a.t.c.h
+b i a t c h
 bicurious
 bimbo
 bIoody
 bIowjob
 bisexual
 bitch
+b.i.t.c.h
+b_i_t_c_h
 b-i-t-c-h
 bitcher
 bitches
@@ -156,6 +167,9 @@ cIitoris
 clit
 clitoris
 cock
+c_o_c_k
+c.o.c.k
+c-o-c-k
 cockblock
 cockblocker
 cockknob
@@ -176,8 +190,7 @@ coon-dog
 coons
 corruption
 craack
-crabs
-crack
+cracka
 cracker
 crackpipe
 crackwhore
@@ -202,6 +215,8 @@ cunn
 cunnilingus
 cunntt
 cunt
+c.u.n.t
+c_u_n_t
 c-u-n-t
 cunter
 cuntfuck
@@ -224,6 +239,8 @@ damnation
 datnigga
 devil
 dick
+d_i_c_k
+d.i.c.k
 d-i-c-k
 dickbrain
 dickhead
@@ -279,6 +296,8 @@ f1ck
 facefucker
 facked
 facker
+facka
+fukka
 fackgay
 fagot
 fagott
@@ -298,6 +317,8 @@ feces
 feck
 fetish
 fick
+f.i.c.k
+f_i_c_k
 f-i-c-k
 ficker
 fingerfuck
@@ -316,10 +337,14 @@ foreskin
 forni
 fornicate
 fotze
+f_o_t_z_e
+f.o.t.z.e
 f-o-t-z-e
 freefuck
 fuced
 fuck
+f_u_c_k
+f.u.c.k
 f-u-c-k
 fucka
 fuckable
@@ -328,6 +353,10 @@ fuckbuddy
 fucked
 fuckedup
 fucker
+f-u-c-k-e-r
+f_u_c_k_e_r
+f.u.c.k.e.r
+f u c k e r
 fuckers
 fuckface
 fuckfest
@@ -370,6 +399,8 @@ gangbanger
 gangsta
 gatorbait
 gay
+g_a_y
+g.a.y
 g-a-y
 gaymuthafuckinwhore
 gaysex
