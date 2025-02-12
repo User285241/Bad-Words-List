@@ -454,6 +454,9 @@ hitleer
 hitleerr
 hitler
 hItler
+h.i.t.l.e.r
+h_i_t_l_e_r
+hitla
 h-i-t-l-e-r
 hitlerism
 hitlerist
@@ -464,6 +467,8 @@ hoes
 holestuffer
 homicide
 homo
+h_o_m_o
+h.o.m.o
 ho-mo
 h-o-m-o
 homobangers
@@ -498,6 +503,9 @@ humano1
 humano2
 humano3
 hure
+h-u-r-e
+h_u_r_e
+h.u.r.e
 hurensohn
 huren-sohn
 hussy
@@ -529,6 +537,9 @@ kock
 kumquat
 kunt
 kurva
+k-u-r-v-a
+k_u_r_v_a
+k.u.r.v.a
 labia
 lactate
 lapdance
@@ -644,6 +655,7 @@ nazi
 nazism
 nazy
 nazzi
+nga
 ngga
 ngr
 nig
@@ -652,6 +664,8 @@ nigg
 nigga
 n-i-g-g-a
 nigger
+n_i_g_g_e_r
+n.i.g.g.e.r
 n-i-g-g-e-r
 nip
 nipple
@@ -749,7 +763,9 @@ puss
 pussie
 pussies
 pussy
+p.u.s.s.y
 p-u-s-s-y
+p_u_s_s_y
 pussycat
 pussyeater
 pussyfucker
@@ -759,6 +775,8 @@ pussylover
 pussypounder
 pusy
 puta
+p u.t.a
+p_u_t_a
 p-u-t-a
 putaa
 putana
@@ -813,13 +831,21 @@ sau
 sausage
 scat
 scheiß
+$chei$$
+$cheiss
+$cheiß
 scheiss
 scheiße
 scheisse
 schlampe
 schwanz
+s c h w a n z
+s.c.h.w.a.n.z
+sc_h_w_a_n_z
+s-c-h-w-a-n-z
 schwul
 schwule
+schwuchtel
 schwuler
 scr0tum
 screw
@@ -828,6 +854,7 @@ scum
 scumbag
 semen
 sex
+s3x
 s-e-x
 sexed
 sexual
@@ -839,6 +866,8 @@ shagging
 shat
 shhit
 shit
+s.h.i.t
+s_h_i_t
 s-h-i-t
 shitted
 shitter
@@ -904,6 +933,8 @@ stupid
 stupidfuck
 stupidfucker
 suck
+s_u_c_k_s
+s.u.c.k.s
 s-u-c-k
 suckdick
 sucker
@@ -912,7 +943,8 @@ suckme
 suckmyass
 suckmydick
 suckoff
-sucks
+s_u_c_k_s
+s.u.c.k.s
 s-u-c-k-s
 suckz
 suicide
@@ -986,8 +1018,9 @@ waysted
 weenie
 wh0re
 whoralicious
-WHORE
 whore
+w_h_o_r_e
+w.h.o.r.e
 w-h-o-r-e
 whorealicious
 whoreass
@@ -1000,6 +1033,14 @@ whores
 whoreson
 wichsen
 wichser
+w.i.c.h.s.e.r
+wichsa
+wichser
+w i c h s e r
+w-i-c-h-s-e-r
+w_i_c_h_s_e_r
+wicksa
+wickser
 willies
 willy
 willybum
