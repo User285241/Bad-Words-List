@@ -18,8 +18,8 @@ $ucks
 0ral
 4$$
 4d01f
-a  d  m  i  n
 a   d   m   i   n
+a  d  m  i  n
 a d m i n
 a d o l f
 a d u s e
@@ -84,10 +84,10 @@ asspacker
 asss
 asylant
 atombombe
+b   i   t   c   h
+b  i  t  c  h
 b i a t c h
 b i t c h
-b  i  t  c  h
-b   i   t   c   h
 b.i.a.t.c.h
 b.i.t.c.h
 b_i_a_t_c_h
@@ -166,8 +166,8 @@ buttmuncher
 buttplug
 buttstain
 byatch
-c  u  n  t
 c   u   n   t
+c  u  n  t
 c u n t
 c.o.c.k
 c.u.n.t
@@ -240,9 +240,9 @@ cuntsucker
 cuntt
 cunttt
 cybersex
-d 1 c k
-d  i  c  k
 d   i   c   k
+d  i  c  k
+d 1 c k
 d i c k
 d.i.c.k
 d_i_c_k
@@ -298,14 +298,14 @@ erection
 errect
 execution
 executioner
+f   u   c   k
+f  u  c  k
 f 0 t z e
 f 1 c k
 f i c k
 f o t z e
 f o t z e n
 f u c k
-f  u  c  k
-f   u   c   k
 f u c k e r
 f u c k e r
 f.i.c.k
@@ -579,6 +579,7 @@ lubejob
 lutsch
 lutscher
 lynch
+m i e r d a
 macaca
 magicwand
 mams
@@ -602,7 +603,6 @@ Mensch3
 meth
 mideast
 mierda
-m i e r d a
 milf
 mockey
 mockie
@@ -636,13 +636,13 @@ motherlovebone
 murder
 murderer
 muschi
-n 1 g
-n  1  g
 n   1   g
-n  i  g  g  e  r
-n   i   g   g   e   r
 n   i   g   g   a
+n   i   g   g   e   r
+n  1  g
 n  i  g  g  a
+n  i  g  g  e  r
+n 1 g
 n 1 g g a
 n 1 g g e r
 n i g
@@ -658,9 +658,9 @@ n19
 n199a
 n199er
 n199er
+n1g
 n1g3r
 n1german
-n1g
 n1gg
 n1gg3r
 n1gg4
@@ -811,10 +811,10 @@ pussylover
 pussypounder
 pusy
 puta
-pute
 p-u-t-a
 putaa
 putana
+pute
 putin
 puto
 putta
@@ -844,14 +844,14 @@ retarded
 rtard
 russki
 russkie
+s   u   c   k
+s  u  c  k
 s c h w a n z
 s e x
 s h 1 t
 s h i t
 s h lt
 s u c k
-s  u  c  k
-s   u   c   k
 s u c k s
 s.c.h.w.a.n.z
 s.h.i.t
@@ -1080,8 +1080,8 @@ willies
 willy
 willybum
 wixa
-wixxa
 wixer
+wixxa
 wixxer
 wuss
 www
