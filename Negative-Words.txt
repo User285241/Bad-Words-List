@@ -650,11 +650,14 @@ n i g g a
 n i g g e r
 n.i.g.g.e.r
 n_i_g_g_e_r
+n16
+n166
 n1663r
 n1664
 n166a
 n166er
 n19
+n199
 n199a
 n199er
 n199er
@@ -688,6 +691,10 @@ nazzi
 nga
 ngga
 ngr
+ni6
+ni66
+ni9
+ni99
 nig
 nigah
 nigg
