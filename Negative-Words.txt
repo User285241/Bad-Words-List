@@ -29,7 +29,7 @@ a$$
 a.d.m.i.n
 a.d.o.l.f
 a.s.s
-a_d_m_in
+a_d_m_i_n
 a_d_o_l_f
 a_s_s
 a55
