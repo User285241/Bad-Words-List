@@ -517,10 +517,12 @@ humain
 humain1
 humain2
 humain3
+Human
 human
 human1
 human2
 human3
+Humano
 humano
 humano1
 humano2
